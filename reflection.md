@@ -4,17 +4,19 @@ In terms of meeting the baseline criteria for this assignment, I believe that I 
 
 In terms of aspirational inspirations, I feel as though I used audacity effects that were new to me, especially when Ben was able to introduce me to auto duck for my background noise. I had never used audacity before, so virtually any effect I used was new. I also used other effects like the compressor to edit the sound of the woman’s voice. In addition to this, I was able to use the left location filter for the sound of the glass pouring and the right location filter when the woman was looking around in her bag to provide a sense of direction for the listener. 
 
- 
+ ![Screen Shot 2022-02-05 at 5 54 42 PM](https://user-images.githubusercontent.com/97541612/152870086-325934d9-75b3-4701-ab4a-0f65d79489bc.png)
+
 
 After editing the man and woman’s voices, I was able to merge them, in the sound clip ‘mix’ where it is as though they are together in one room, since they were recorded separately. 
 
- 
+ ![screenshot at preview stage](https://user-images.githubusercontent.com/97541612/152870193-66bc684c-da73-4970-9ad9-9cd9669826cb.png)
+
 
 Here is a screenshot of my first draft preview, when I had not yet combined the background noise, but rather had the clips separate so I could edit them to be the same length throughout the audio. 
 
- 
+ ![Screen Shot 2022-02-07 at 3 40 58 PM](https://user-images.githubusercontent.com/97541612/152870127-ed907604-b5f4-4df6-9668-dc0fb75a4059.png)
+
 
 Here is a screenshot of some advice I was given to improve my audio narrative. I took the advice of fading in and fading out the music so that the characters’ conversation would be clearer and easier to hear when listening. Additionally, this really gave me the opportunity to adjust the volume of the music because the audio was able to focus more on the conversation. 
 
 
-![image](https://user-images.githubusercontent.com/97541612/152869915-de4f7efe-37ed-4420-8035-fae4a4fadb45.png)
